@@ -101,27 +101,27 @@
   </entry>
   
   <entry>
-    <title>The-Second-Blog</title>
-    <link href="http://reirovin.com/2022/08/21/2022-07-08-%E6%80%9D/"/>
-    <id>http://reirovin.com/2022/08/21/2022-07-08-%E6%80%9D/</id>
+    <title>pigeon&amp;风景</title>
+    <link href="http://reirovin.com/2022/08/21/2022-07-10-pigeon/"/>
+    <id>http://reirovin.com/2022/08/21/2022-07-10-pigeon/</id>
     <published>2022-08-20T18:00:47.170Z</published>
-    <updated>2022-07-15T11:46:31.395Z</updated>
+    <updated>2022-07-15T11:40:36.030Z</updated>
     
-    <content type="html"><![CDATA[<p>今日份的想</p><span id="more"></span><p>科目二开班第一天，从早上8点开始到晚上18点，只开了18分钟的车上午有理论课权先不论，下午大概是等45分钟，开5分钟的车。<br>我的评价是：逆天！！！<br>不过趁中间的时间，上了C/C++的课，感觉像是上45分钟课，休息时间顺便练下车XD。不过没法做笔记就是了，现在来回顾一下好了。</p><p>————————————————————-分割线————————————————————-</p><p>使用的软件是MSVS2019</p><p>什么是C语言？<br>面向过程，抽象化的计算机编程语言。<br>代码短小精悍，应用广泛，良好的跨平台性，目的明确，结构化，高效率。<br>我的理解是：</p><p>太抽象了，目前理解不来。</p><p>应该就是以函数的形式，不断的调用、循环、计算，通过结构化的程序对以底层开发为主的活动进行编译。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">int main()</span><br><span class="line">&#123;</span><br><span class="line"> printf(&quot;qwq&quot;);</span><br><span class="line"></span><br><span class="line"> return 0;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>这是猪跑，了解到<br><font color="red"><br>int：整型函数<br>main：主函数<br>printf：打印<br>sizeo：关键字-操作符-计算类型/变量所占空间大小<br></font></p><p>以及对C的数据类型的认识<br>char（字符数据类型）：char用以创造变量空间存放 字符数据类型如：’a’ 字符a</p><p>  char w = ‘a’</p><p>short（短整型）：用以存放整数<br>int（整型）<br>long（长整型）<br>long long（长长整型）<br>float（单精度浮点数）：用以存放小数<br>double（双精度浮点数）</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">int main()</span><br><span class="line">&#123;</span><br><span class="line"></span><br><span class="line"> printf(&quot;%d\n&quot;,sizeof(char));</span><br><span class="line"> printf(&quot;%d\n&quot;,sizeof(short));</span><br><span class="line"> printf(&quot;%d\n&quot;,sizeof(int));</span><br><span class="line"> printf(&quot;%d\n&quot;,sizeof(long));</span><br><span class="line"> printf(&quot;%d\n&quot;,sizeof(long long)); </span><br><span class="line"> printf(&quot;%d\n&quot;,sizeof(float)); </span><br><span class="line"> printf(&quot;%d\n&quot;,sizeof(double)); </span><br><span class="line"></span><br><span class="line"> return 0;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>得到结果为<br><font color="green"><br>1<br>2<br>4<br>4<br>8<br>4<br>8<br></font></p><p>答案是：<br><font color="gray" size="6"></p><p>long&gt;=int</p></font><p>————————————————————-分割线————————————————————–</p><p>接下来是练车的总结：<br>尽管是18分钟，起步倒车自认为还不错（<br>系安全带 → 踩离合<font color="red">（用左脚前掌！养成习惯！）</font> → 点火 → 挂挡 → 松手刹 → 松开左脚到半联动状态即可<br>要求慢而稳。</p><p><font color="white" size="9">安倍好似！</font></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;今日份的想&lt;/p&gt;</summary>
+    <content type="html"><![CDATA[<p>今天就鸽了，内容有想写的，但是好困。</p><span id="more"></span><p>那就来点景吧<br><img src="/images/0710/6.jpg" alt="云"><br><img src="/images/0710/4.jpg" alt="天"><br><img src="/images/0710/5.jpg" alt="田"><br><img src="/images/0710/2.jpg" alt="这是一对蜜蜂（可恶）"><br><img src="/images/0710/1.jpg" alt="大热天明明有帽子却要拿在手上的弱子"></p><p>又热又困，谢谢车友的西瓜和冰块</p></font>晚安<font color="red" size="14">♥ ♥ ♥ ♥ ♥ ♥</font>]]></content>
     
     
+    <summary type="html">&lt;p&gt;今天就鸽了，内容有想写的，但是好困。&lt;/p&gt;</summary>
     
     
-    <category term="科目二" scheme="http://reirovin.com/tags/%E7%A7%91%E7%9B%AE%E4%BA%8C/"/>
     
-    <category term="生活" scheme="http://reirovin.com/tags/%E7%94%9F%E6%B4%BB/"/>
     
-    <category term="C/C++" scheme="http://reirovin.com/tags/C-C/"/>
+    <category term="丧" scheme="http://reirovin.com/tags/%E4%B8%A7/"/>
     
-    <category term="学车" scheme="http://reirovin.com/tags/%E5%AD%A6%E8%BD%A6/"/>
+    <category term="gu gu gu" scheme="http://reirovin.com/tags/gu-gu-gu/"/>
+    
+    <category term="pigeo" scheme="http://reirovin.com/tags/pigeo/"/>
+    
+    <category term="风景" scheme="http://reirovin.com/tags/%E9%A3%8E%E6%99%AF/"/>
     
   </entry>
   
@@ -147,27 +147,27 @@
   </entry>
   
   <entry>
-    <title>pigeon&amp;风景</title>
-    <link href="http://reirovin.com/2022/08/21/2022-07-10-pigeon/"/>
-    <id>http://reirovin.com/2022/08/21/2022-07-10-pigeon/</id>
+    <title>The-Second-Blog</title>
+    <link href="http://reirovin.com/2022/08/21/2022-07-08-%E6%80%9D/"/>
+    <id>http://reirovin.com/2022/08/21/2022-07-08-%E6%80%9D/</id>
     <published>2022-08-20T18:00:47.170Z</published>
-    <updated>2022-07-15T11:40:36.030Z</updated>
+    <updated>2022-07-15T11:46:31.395Z</updated>
     
-    <content type="html"><![CDATA[<p>今天就鸽了，内容有想写的，但是好困。</p><span id="more"></span><p>那就来点景吧<br><img src="/images/0710/6.jpg" alt="云"><br><img src="/images/0710/4.jpg" alt="天"><br><img src="/images/0710/5.jpg" alt="田"><br><img src="/images/0710/2.jpg" alt="这是一对蜜蜂（可恶）"><br><img src="/images/0710/1.jpg" alt="大热天明明有帽子却要拿在手上的弱子"></p><p>又热又困，谢谢车友的西瓜和冰块</p></font>晚安<font color="red" size="14">♥ ♥ ♥ ♥ ♥ ♥</font>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;今天就鸽了，内容有想写的，但是好困。&lt;/p&gt;</summary>
+    <content type="html"><![CDATA[<p>今日份的想</p><span id="more"></span><p>科目二开班第一天，从早上8点开始到晚上18点，只开了18分钟的车上午有理论课权先不论，下午大概是等45分钟，开5分钟的车。<br>我的评价是：逆天！！！<br>不过趁中间的时间，上了C/C++的课，感觉像是上45分钟课，休息时间顺便练下车XD。不过没法做笔记就是了，现在来回顾一下好了。</p><p>————————————————————-分割线————————————————————-</p><p>使用的软件是MSVS2019</p><p>什么是C语言？<br>面向过程，抽象化的计算机编程语言。<br>代码短小精悍，应用广泛，良好的跨平台性，目的明确，结构化，高效率。<br>我的理解是：</p><p>太抽象了，目前理解不来。</p><p>应该就是以函数的形式，不断的调用、循环、计算，通过结构化的程序对以底层开发为主的活动进行编译。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">int main()</span><br><span class="line">&#123;</span><br><span class="line"> printf(&quot;qwq&quot;);</span><br><span class="line"></span><br><span class="line"> return 0;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>这是猪跑，了解到<br><font color="red"><br>int：整型函数<br>main：主函数<br>printf：打印<br>sizeo：关键字-操作符-计算类型/变量所占空间大小<br></font></p><p>以及对C的数据类型的认识<br>char（字符数据类型）：char用以创造变量空间存放 字符数据类型如：’a’ 字符a</p><p>  char w = ‘a’</p><p>short（短整型）：用以存放整数<br>int（整型）<br>long（长整型）<br>long long（长长整型）<br>float（单精度浮点数）：用以存放小数<br>double（双精度浮点数）</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">int main()</span><br><span class="line">&#123;</span><br><span class="line"></span><br><span class="line"> printf(&quot;%d\n&quot;,sizeof(char));</span><br><span class="line"> printf(&quot;%d\n&quot;,sizeof(short));</span><br><span class="line"> printf(&quot;%d\n&quot;,sizeof(int));</span><br><span class="line"> printf(&quot;%d\n&quot;,sizeof(long));</span><br><span class="line"> printf(&quot;%d\n&quot;,sizeof(long long)); </span><br><span class="line"> printf(&quot;%d\n&quot;,sizeof(float)); </span><br><span class="line"> printf(&quot;%d\n&quot;,sizeof(double)); </span><br><span class="line"></span><br><span class="line"> return 0;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>得到结果为<br><font color="green"><br>1<br>2<br>4<br>4<br>8<br>4<br>8<br></font></p><p>答案是：<br><font color="gray" size="6"></p><p>long&gt;=int</p></font><p>————————————————————-分割线————————————————————–</p><p>接下来是练车的总结：<br>尽管是18分钟，起步倒车自认为还不错（<br>系安全带 → 踩离合<font color="red">（用左脚前掌！养成习惯！）</font> → 点火 → 挂挡 → 松手刹 → 松开左脚到半联动状态即可<br>要求慢而稳。</p><p><font color="white" size="9">安倍好似！</font></p>]]></content>
     
     
+    <summary type="html">&lt;p&gt;今日份的想&lt;/p&gt;</summary>
     
     
-    <category term="丧" scheme="http://reirovin.com/tags/%E4%B8%A7/"/>
     
-    <category term="gu gu gu" scheme="http://reirovin.com/tags/gu-gu-gu/"/>
     
-    <category term="pigeo" scheme="http://reirovin.com/tags/pigeo/"/>
+    <category term="科目二" scheme="http://reirovin.com/tags/%E7%A7%91%E7%9B%AE%E4%BA%8C/"/>
     
-    <category term="风景" scheme="http://reirovin.com/tags/%E9%A3%8E%E6%99%AF/"/>
+    <category term="生活" scheme="http://reirovin.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="C/C++" scheme="http://reirovin.com/tags/C-C/"/>
+    
+    <category term="学车" scheme="http://reirovin.com/tags/%E5%AD%A6%E8%BD%A6/"/>
     
   </entry>
   
