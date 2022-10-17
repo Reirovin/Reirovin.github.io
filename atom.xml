@@ -6,7 +6,7 @@
   <link href="http://reirovin.com/atom.xml" rel="self"/>
   
   <link href="http://reirovin.com/"/>
-  <updated>2022-10-02T16:35:24.613Z</updated>
+  <updated>2022-10-17T15:42:47.691Z</updated>
   <id>http://reirovin.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>否定</title>
+    <link href="http://reirovin.com/2022/10/17/2022-10-17-%E5%90%A6%E5%AE%9A/"/>
+    <id>http://reirovin.com/2022/10/17/2022-10-17-%E5%90%A6%E5%AE%9A/</id>
+    <published>2022-10-17T14:31:10.884Z</published>
+    <updated>2022-10-17T15:42:47.691Z</updated>
+    
+    <content type="html"><![CDATA[<p>新建文本<br>新建</p><span id="more"></span><p>暗中涌动的情绪又一次浮现出来了,数不清第几次了。</p><p>若是能够就这样切除我的额叶，成为毫无思想的人偶，被当作靶子，用克雷贝尔把我狠狠地贯穿，成为被吹拂的秋风带走的尘埃。</p><p>不愿意去回想过去，抱着孩童稚嫩的愿望，追求着不被限制的，不被甩开，抛弃的拥抱。</p><p>高三的日子可能不算是最痛苦的日子，但却可能是我最畅快的日子，每日夜里在独自一人的房间里做着自己所愿意做的事情，输出着自认为有价值的爱意，或者是咬住渐渐霉湿的被子嘶吼和哭泣，但至少是能够有所疏解心中有如黑洞般的悲伤。</p><p>所以我选择了放弃前进，我把笔放下，走出教室，跑出校门的时候，发现一切的事情并没有那么复杂。<br>逃避可耻，但是有用。<br>反正什么都和我没有关系。</p><p>我也不过只是个小孩子罢了，但小孩子还真是麻烦啊，被推开了几次就产生奇怪的心理，甚至当事人忘记了的事，也会跟什么深仇大怨一样记得。就算正常分析下是正常的行为，不论之后多少次，都还是会产生抗拒心理，但是却会向其他人报以极大的期望，还因为以前被推开的经历，在被接纳过一次后就完全地信赖之，可是到最后，却因为不明的原因，依然是没有希望的。<br>所以我究竟渴望什么<br>没有保证的明天，已经失去了些许耐心。<br>就算是对病情报以极其强烈的理解，企图用自我微弱且不稳定的对世界的爱意去灌溉，并重构自我的爱，最后得到的却是在本就残缺的根部又蔓延了霉菌。</p><p>想占有他人的占有欲，每天每时每刻都想和你在一起<br>究竟什么是正确的，美化，堕落，扭曲，世界现在是什么样子的，我睁开的双眼依然是一片黑暗，我好累，十分混乱，完成任务罢了，但现在连任务怕是也没有力气去完成了，毕竟我从来到这个世界开始就没有什么擅长的事，事到如今也依然还是在不断被否定着，被我自己所否定着。<br>但我现在唯一相信的事，就是和你有关的事</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;新建文本&lt;br&gt;新建&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="NONE" scheme="http://reirovin.com/tags/NONE/"/>
+    
+  </entry>
   
   <entry>
     <title>！！！</title>
@@ -166,6 +185,26 @@
   </entry>
   
   <entry>
+    <title>Hello World</title>
+    <link href="http://reirovin.com/2022/08/21/hello-world/"/>
+    <id>http://reirovin.com/2022/08/21/hello-world/</id>
+    <published>2022-08-20T18:00:47.170Z</published>
+    <updated>2022-07-06T18:08:59.102Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>pigeon&amp;风景</title>
     <link href="http://reirovin.com/2022/08/21/2022-07-10-pigeon/"/>
     <id>http://reirovin.com/2022/08/21/2022-07-10-pigeon/</id>
@@ -187,26 +226,6 @@
     <category term="pigeo" scheme="http://reirovin.com/tags/pigeo/"/>
     
     <category term="风景" scheme="http://reirovin.com/tags/%E9%A3%8E%E6%99%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://reirovin.com/2022/08/21/hello-world/"/>
-    <id>http://reirovin.com/2022/08/21/hello-world/</id>
-    <published>2022-08-20T18:00:47.170Z</published>
-    <updated>2022-07-06T18:08:59.102Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
-    
     
   </entry>
   
